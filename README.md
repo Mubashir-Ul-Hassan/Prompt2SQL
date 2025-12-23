@@ -7,6 +7,15 @@
 
 ---
 
+## 🎥 Project Walkthrough & Story
+
+I’ve shared the journey behind building **Prompt2SQL**, along with a live demo video, on LinkedIn — covering the learning process, challenges, and product thinking behind this project.
+
+🔗 **LinkedIn Project Post:**  
+https://www.linkedin.com/posts/mubashir-ul-hassan_buildinpublic-studentsintech-aiprojects-activity-7409335211215364096-S72o
+
+---
+
 ## ✨ Features
 
 * 📤 Upload **CSV, XLSX, or XLS** files
