@@ -125,7 +125,7 @@ Deployment metadata is managed via the Hugging Face README YAML header.
 ## 🙌 Author
 
 **Mubashir Ul Hassan**
-AI & Data Applications Developer
+Data Scientist
 
 ---
 
